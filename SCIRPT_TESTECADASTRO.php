@@ -17,7 +17,7 @@ class BuddyPressFormTest extends WP_UnitTestCase {
             'dob_day' => '15',
             'dob_month' => '06',
             'dob_year' => '1990',
-            'cpf' => '16317897489'
+           
         );
 
         buddypress_process_registration();
